@@ -1,2 +1,0 @@
-# modularpattern
-Created with CodeSandbox
